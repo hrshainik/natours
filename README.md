@@ -76,4 +76,4 @@ Project Link: [https://github.com/hrshainik/natours](https://github.com/hrshaini
 
 <p align="right"><a href="#top">⇧Back To Top</a></p>
 
-[product-screenshot]: img/Natours-min.png
+[product-screenshot]: img/product-showcase.jpg
